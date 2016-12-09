@@ -1,2 +1,7 @@
-# final-project-hongpeng-cao-final-project
-final-project-hongpeng-cao-final-project created by GitHub Classroom
+# final-project-Hongpeng-Cao
+
+Hongpeng Cao
+
+I am using PHP, html , javastript and Mysql developed this bbs web
+
+before make it up, using .../bbs/createdb.php to set up all setting.
